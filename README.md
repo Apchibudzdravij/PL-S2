@@ -1,2 +1,1 @@
-# PL-S2
-It is wasting of digital space, but it is necessary...
+Here you can find laboratory works №14, 15
