@@ -1,0 +1,3 @@
+﻿  MFST.cpp
+D:\ExtendedData\Laboratory\ЯП\16\PL_Lab16\PL_Lab16\MFST.cpp(230,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  PL_Lab16.vcxproj -> D:\ExtendedData\Laboratory\ЯП\16\PL_Lab16\Debug\PL_Lab16.exe
